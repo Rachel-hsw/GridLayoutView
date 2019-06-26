@@ -1,3 +1,4 @@
+Kotlin写的gridLayoutView
 # GridLayoutView
 通过GridLayout实现可以定义宽度和高度的网格布局
 <br />
